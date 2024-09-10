@@ -58,6 +58,7 @@ dependencies {
 
     //Room
     implementation(libs.androidx.room.runtime)
+    implementation(libs.androidx.room.ktx)
 
     // To use Kotlin annotation processing tool (kapt)
     kapt(libs.androidx.room.compiler)
@@ -73,6 +74,7 @@ dependencies {
     //Lifecycle version and utilities
     // ViewModel
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
+
 
     // LiveData
     implementation(libs.androidx.lifecycle.livedata.ktx)
