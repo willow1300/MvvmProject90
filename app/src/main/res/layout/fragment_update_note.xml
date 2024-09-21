@@ -71,7 +71,7 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="32dp"
             android:layout_marginBottom="36dp"
-            android:backgroundTint="@color/colorPrimary"
+            android:backgroundTint="@color/forButton"
             android:clickable="true"
             android:contentDescription="@string/done_button_in_the_update_page"
             android:src="@drawable/ic_done"

@@ -2,7 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="colorPrimary">#ccff37</color>
-    <color name="forButton">#e1d1f2</color>
+    <color name="colorPrimary">#e5f4fc</color>
+    <color name="forButton">#CAA9ED</color>
     <color name="homeCardTxt">#464b4e</color>
+    <color name="actionBar1">#7fccf4</color>
+    <color name="actionBar2">#65a3c3</color>
+    <color name="actionBar3">#4c7a92</color>
 </resources>
